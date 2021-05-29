@@ -6,6 +6,6 @@ Hello word ! Hello Git !
 Hello word ! Hello Git ! 
 Hello word ! Hello Git ! 
 Hello word ! Hello Git ! 
-Hello word ! Hello Git !
+Hello word ! Hello Git ! hot fix  test
 Hello hot-fix;:wq
 
