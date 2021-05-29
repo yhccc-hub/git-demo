@@ -6,6 +6,6 @@ Hello word ! Hello Git !
 Hello word ! Hello Git ! 
 Hello word ! Hello Git ! 
 Hello word ! Hello Git ! 
-Hello word ! Hello Git !
+Hello word ! Hello Git ! mastrer test
 Hello hot-fix;:wq
 
